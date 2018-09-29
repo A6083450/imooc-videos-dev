@@ -6,6 +6,7 @@ import org.springframework.context.annotation.ComponentScan;
 import tk.mybatis.spring.annotation.MapperScan;
 
 /**
+ * 启动类
  * @author erpljq
  * @date 2018/9/11
  */
