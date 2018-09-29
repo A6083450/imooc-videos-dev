@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/imoocvideosdev.iml" filepath="$PROJECT_DIR$/imoocvideosdev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imoocvideosdevcommon/imoocvideosdevcommon.iml" filepath="$PROJECT_DIR$/imoocvideosdevcommon/imoocvideosdevcommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imoocvideosdevmapper/imoocvideosdevmapper.iml" filepath="$PROJECT_DIR$/imoocvideosdevmapper/imoocvideosdevmapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imoocvideosdevminiapi/imoocvideosdevminiapi.iml" filepath="$PROJECT_DIR$/imoocvideosdevminiapi/imoocvideosdevminiapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imoocvideosdevpojo/imoocvideosdevpojo.iml" filepath="$PROJECT_DIR$/imoocvideosdevpojo/imoocvideosdevpojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imoocvideosdevservice/imoocvideosdevservice.iml" filepath="$PROJECT_DIR$/imoocvideosdevservice/imoocvideosdevservice.iml" />
+    </modules>
+  </component>
+</project>
